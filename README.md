@@ -20,7 +20,7 @@ This repository contains the `my_robot` package and supporting scripts used to:
 | OS | Ubuntu 24.04 |
 | ROS 2 | Jazzy |
 | Motors | Dynamixel XL430-W250-T x2 |
-| LiDAR | SLLidar C1 |
+| LiDAR | RPLidar C1 |
 | IMU | BNO085 |
 | Base | 15 cm diameter differential-drive base |
 
