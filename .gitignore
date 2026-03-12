@@ -19,3 +19,5 @@ env/
 
 *.swp
 *.swo
+
+src/sllidar_ros2
